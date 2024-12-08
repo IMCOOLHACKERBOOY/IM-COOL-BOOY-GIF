@@ -1,0 +1,4 @@
+Pillow
+imageio
+numpy
+tqdm

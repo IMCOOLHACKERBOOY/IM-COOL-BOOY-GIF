@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+IM_COOL_BOOY_GIF/__init__.py
+IM_COOL_BOOY_GIF/im_cool_booy_gif.py
+IM_COOL_BOOY_GIF/main.py
+IM_COOL_BOOY_GIF.egg-info/PKG-INFO
+IM_COOL_BOOY_GIF.egg-info/SOURCES.txt
+IM_COOL_BOOY_GIF.egg-info/dependency_links.txt
+IM_COOL_BOOY_GIF.egg-info/entry_points.txt
+IM_COOL_BOOY_GIF.egg-info/requires.txt
+IM_COOL_BOOY_GIF.egg-info/top_level.txt

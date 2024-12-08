@@ -1,0 +1,2 @@
+[console_scripts]
+IM-COOL-BOOY-GIF = IM_COOL_BOOY_GIF.main:main
