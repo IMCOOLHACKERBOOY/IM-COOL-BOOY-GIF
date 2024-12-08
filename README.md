@@ -2,7 +2,6 @@
 
 (IM COOL BOOY GIF TOOL)
 
-
 IM COOL BOOY GIF TOOL is a powerful and easy-to-use Python tool designed to help you process images, add custom text, and create GIFs from image collections, all while maintaining HD resolution. Developed by SL Android Official ™ | IM COOL BOOY, this tool offers you a seamless and efficient way to enhance your image and GIF creation process.
 
 🤝🖐(Features)
@@ -44,9 +43,5 @@ Contributions are always welcome...! If you'd like to improve IM COOL BOOY GIF T
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-
 IM COOL BOOY GIF tool makes it easy to create GIFs from your images in an improved way. Do you want to resize to HD size or create amazing animated GIFs..? This tool will meet your needs...!
-# IM-COOL-BOOY-GIF
-# IM-COOL-BOOY-GIF
-# IM-COOL-BOOY-GIF
 # IM-COOL-BOOY-GIF
