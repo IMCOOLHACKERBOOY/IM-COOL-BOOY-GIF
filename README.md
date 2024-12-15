@@ -45,3 +45,48 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 IM COOL BOOY GIF tool makes it easy to create GIFs from your images in an improved way. Do you want to resize to HD size or create amazing animated GIFs..? This tool will meet your needs...!
 # IM-COOL-BOOY-GIF
+
+# cool-booy-tmux
+
+**cool-booy-tmux** is a simple yet powerful tool to easily set up your tmux configuration with a pre-defined status bar and useful system information. This tool makes it easier to configure tmux for a better terminal experience on Android (Termux) and Linux systems.
+
+---
+
+## 🚀 Features
+
+- **Automatic tmux Setup**  
+  Instantly configure tmux status bar with system stats, uptime, battery percentage, and more.
+  
+- **Simple to Use**  
+  With a single command, you can set up tmux and start using it right away.
+
+- **Cross-Platform**  
+  Works on Termux (Android) and Linux systems with minimal setup.
+
+---
+
+## 💻 Installation
+
+To get started with **cool-booy-tmux**, follow these steps:
+
+### Prerequisites
+
+Make sure your system meets the following prerequisites:
+
+- **Python 3.6 or above**  
+  Ensure that Python is installed and updated on your system.
+
+- **Termux or Linux Environment**  
+  Works best in Termux on Android or any Linux-based terminal environment.
+
+- **pkg** Package Manager (for Termux)  
+  Required for installing tmux on Termux.
+
+---
+
+### 1. Install Python Dependencies
+
+Before using the tool, make sure you have Python installed on your system. To install the required Python dependencies, run:
+
+```bash
+pip install -r requirements.txt
